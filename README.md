@@ -6,14 +6,10 @@ npm start
 ```
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+## About Me
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+I have lived in London all my life, and although I love to travel and have done so far and wide, I have no intention to move overseas as I love London too much. Although I had studied programming at A-Level, I found the course much too academic for my tastes and left to study psychology instead. Hopefully the courses offered by CodeYourFuture will change my view and will cause me to become enthusiastic about programing again.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+This project represents my first attempt at a complete construction of a website after undertaking an introductory CYF course. Although I had dabbled in HTML programming before when designing some primitive websites, this is my first taste of CSS and am looking forward to learning more. My one regret is that I didn't get as much time as I would have liked to properly understand the syntax and then rigorousness involved.
 
-Happy Coding!
+My other hobbies include photography and I regularly attend themed group photoshoots.
