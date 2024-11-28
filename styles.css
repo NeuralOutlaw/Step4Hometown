@@ -1,0 +1,135 @@
+body {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background: linear-gradient(#2596be, #65cade);
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, p {
+    text-shadow: 0 0 1px black;
+}
+
+#city-img {
+    
+    width: 700px;
+    border-radius: 10%;
+    border: 6px solid #0d6ea3;
+    margin-bottom: 10px;
+}
+
+#head2 {
+    text-align: justify;
+    background: #0d6ea3;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+
+#cityblurb {
+    text-align: justify;
+    margin: 0;
+    background: ##0d6ea3;
+    padding: 5px 10px;
+    border-radius: 5px;
+    
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.fact-section {
+    margin-top: 50px;
+}
+
+#fact-title {
+    margin-bottom: 10px;
+}
+
+.fact-hint {
+    margin-top: 0;
+}
+
+#gift-img-cheers {
+    height: 200px;
+}
+
+.fact-img {
+    margin: 0px auto;
+    max-width: 500px;
+    height: 600px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("images/bigbensmall.jpg");
+    background-size: cover;
+}
+
+#fact-img-starmer:hover {
+    background-image: url("images/starmer.jpg");
+    padding: 0px;
+    padding-bottom: 60px;
+}
+
+#fact-img-thames:hover {
+    background-image: url("images/thames.jpg");
+    height: 300px;
+    width: 700px;
+    padding-bottom: 25px;
+}
+
+#fact-img-people:hover {
+    background-image: url("images/londonpeople.jpg");
+     height: 300px;
+    width: 700px;
+    padding-bottom: 25px;
+}
+
+#fact-img-tube:hover {
+    background-image: url("images/londontube.jpg");
+    height: 300px;
+    width: 700px;
+    padding-bottom: 25px;
+}
+
+.btn {
+    .btn {
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 50px;
+    background: #dfe1e5;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 4px;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+
+#footer {
+    font-style: italic;
+    width: 400px;
+    margin: 40px auto 20px;
+}
+
+a {
+    color: white;
+}
+
+
+
+/* 
+Add the footer paragraph according to the design. 
+Configure the anchor tag to open the link in a new tab.
+Forgotten how to do it? Google it! 
+
+Link: 
+https://scrimba.com/learn/htmlandcss
+
+Text:
+Want to create your own Birthday GIFt site? Take this HTML & CSS course.
+*/
